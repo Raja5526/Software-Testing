@@ -1,4 +1,4 @@
-# Software Testing Repository
+# Software Testing 
 
 Welcome to the **Software Testing** repository! This repository contains resources, tutorials, test cases, scripts, and best practices related to software testing.
 
